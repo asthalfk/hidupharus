@@ -6,4 +6,6 @@ password = "7f90bde02466b3dbcaebd994c34dad5d230c208c19d5fd8166746c543f586c65688d
 invalid_username = "1234567880abcd"
 invalid_password = "1234567880abcd"
 
+null_username = ""
+null_pass = ""
 
